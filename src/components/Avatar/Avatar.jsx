@@ -22,7 +22,7 @@ const Avatar = () => {
                     Ко фронту пришел на 3 курсе из-за желания начать зарабатывать на своем образовании.<br></br>
                     Начинал с разработки сайтов и в данный момент занимаюсь разработкой интрефейсов на React                   
                 </p>
-                <a href="" target='_blank'>Ссылка на репозиторий</a>
+                <a href="https://github.com/68448/yandexPractice" target='_blank'>Ссылка на репозиторий</a>
             </div>
             <div className='mt-10'>
                 <video width="750" height="500" controls className='mx-auto'>
